@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "rank": 1,
+    "name": "麥當勞 McDonald's",
+    "content": "麥當勞是一家源自美國的連鎖速食餐廳，於1955年由雷·克洛克創立。主要餐點有漢堡、薯條和可樂等。截至2020年，麥當勞在全球約有38,695家分店。",
+    "numberOfStores": "38,695",
+    "imageUrl": "https://storage.googleapis.com/www-cheers-com-tw/article/202104/article-607ea772e69b6.jpg"
+  },
+  {
+    "id": 2,
+    "rank": 2,
+    "name": "肯德基 KFC",
+    "content": "肯德基（Kentucky Fried Chicken，簡稱KFC）是源自美國的快餐品牌，由哈蘭·桑德斯於1952年創立。主要餐點為炸雞和薯條，其獨特的調味和炸雞技術深受消費者喜愛。截至2020年，肯德基在全球約有24,000家分店，分布在超過140個國家和地區。",
+    "numberOfStores": "24,000",
+    "imageUrl": "https://www.tasteofhome.com/wp-content/uploads/2020/03/kfc-sign-GettyImages-921240630.jpg"
+  },
+  {
+    "id": 3,
+    "rank": 3,
+    "name": "漢堡王 Burger King",
+    "content": "漢堡王（Burger King）是源自美國的連鎖速食餐廳，於1953年由詹姆斯·麥克拉蘭和大衛·艾德沃茲共同創立。主要餐點有漢堡、薯條和雞肉等，其招牌餐點為「Whopper」漢堡。截至2020年，漢堡王在全球約有18,625家分店，分布在超過100個國家和地區。",
+    "numberOfStores": "18,625",
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/106936180-1630511993739-gettyimages-1234486065-PWeaver-Milton-210804-04.jpeg?v=1630512088"
+  },
+  {
+    "id": 4,
+    "rank": 4,
+    "name": "星巴克 Starbucks",
+    "content": "星巴克是一家源自美國的連鎖咖啡店，成立於1971年，總部位於華盛頓州西雅圖。主要提供咖啡、茶、糕點等飲品與點心，並且是全球最大的咖啡連鎖店之一。星巴克在全球約有31,256家分店，遍佈全球80個國家。",
+    "numberOfStores": "31,256",
+    "imageUrl": "https://images.unsplash.com/photo-1592321675774-3de57f3ee0dc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fHN0YXJidWNrc3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=800&q=60"
+  },
+  {
+    "id": 5,
+    "rank": 5,
+    "name": "必勝客 Pizza Hut",
+    "content": "必勝客是一家源自美國的連鎖比薩餐廳，成立於1958年。主要餐點為各式比薩和義式麵食等。必勝客以其薄脆餅底和各式創新口味的比薩著名，也提供沙拉和甜點等選擇。截至2020年，必勝客在全球約有18,703家分店。",
+    "numberOfStores": "18,703",
+    "imageUrl": "https://www.allrecipes.com/thmb/2Ix7TziZQ56JEVeBZ70if5QBtls=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Pizza-Hut-90s-Favorite-Returning-3x2-1-f6407a74cd894b2688afc7cef2877c2b.jpg"
+  },
+  {
+    "id": 6,
+    "rank": 6,
+    "name": "牛角 Gyu-Kaku",
+    "content": "Gyu-Kaku是一家日本燒烤餐廳連鎖品牌，在全球各地擁有多家分店。餐廳以提供優質的肉類和食材，加上獨特的燒烤方式和風味調味料，為顧客帶來獨特的味覺體驗。",
+    "numberOfStores": "700+",
+    "imageUrl": "https://cdn2.ettoday.net/images/6631/6631979.jpg"
+  },
+  {
+    "id": 7,
+    "rank": 7,
+    "name": "鼎泰豐",
+    "content": "鼎泰豐是一家源自臺灣臺北市大安區的餐廳，以提供精緻台灣小吃和小籠包而聞名，餐廳內部裝潢優雅，氣氛舒適。在餐廳的創始人鍾汝昌先生的堅持下，鼎泰豐經過不斷創新和改進，已成為享譽國際的品牌，在全球擁有多家分店。",
+    "numberOfStores": "149",
+    "imageUrl": "https://www.dintaifung.com.tw/archive/album/storeAlbum/14/34336b4fb80bd876.jpg"
+  },
+  {
+    "id": 8,
+    "rank": 8,
+    "name": "藏壽司 Kura Sushi",
+    "content": "藏壽司 Kura Sushi 是一家來自日本的連鎖壽司店，以其特色的自動化點餐系統和可愛的餐點招牌廣受顧客喜愛。在日本已經擁有超過 400 間店面，並在全球逐漸擴展。除了壽司外，還有其他日式料理如拉麵和丼飯等選擇。",
+    "numberOfStores": "400+",
+    "imageUrl": "https://moaapi.net/sites/default/files/2023-02/kura-sushi-hero-image-web-size.jpg"
+  },
+  {
+    "id": 9,
+    "rank": 9,
+    "name": "達美樂披薩 Domino's",
+    "content": "Domino's 字面上的翻譯是骨牌，達美樂創始者Mr.Monaghan 最初的構想是在自己家鄉經營二、三家比薩店就滿足了，因此選擇了骨牌的一點和兩點作為商店的標誌。",
+    "numberOfStores": "12,333",
+    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/fe/c3/86/domino-s-pizza.jpg"
+  },
+  {
+    "id": 10,
+    "rank": 10,
+    "name": "摩斯漢堡",
+    "content": "摩斯漢堡是一家日本漢堡連鎖店，於1972年在日本東京創立。摩斯漢堡的招牌菜包括大滿貫漢堡、黑胡椒漢堡、薯條漢堡等等。其菜品以牛肉漢堡為主，並且提供豬肉、雞肉等食材，並且提供豐富的配料選擇。摩斯漢堡在日本及海外擁有眾多分店，深受消費者喜愛。",
+    "numberOfStores": "1,200",
+    "imageUrl": "https://image-cdn.learnin.tw/bnextmedia/image/album/2022-05/img-1652082379-17195.jpg?w=900&output=webp"
+  }
+]
